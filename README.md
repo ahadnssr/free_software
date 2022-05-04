@@ -1,2 +1,3 @@
-# free_software
-Example Free Software Class
+This is an example readme file.
+
+This project prints "hello world"
